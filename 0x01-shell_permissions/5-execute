@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo 100 4-empty/hello
+chmod o+rx [hello]
